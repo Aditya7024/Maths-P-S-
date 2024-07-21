@@ -1,0 +1,19 @@
+365 DataScience RE California Database,,,,
+Types of data and levels of measurement,,,,
+,,,,
+"Task 1: What are the types of data and the levels of measurement of the following variables: Cust ID, Mortgage, Year of sale",,,,
+,,,,
+,,,,
+,Variable,Type of data,Level of measurement,Comment
+,Cust ID,Categorical,Nominal,This variable has the same properties as ID.
+,Mortgage,Categorical,Nominal,This is a Binary variable. Like a Yes/No question or Gender.
+,Year of sale,"Numerical, discrete",Interval,"Year is a numerical variable. It is always discrete. The level of measurement is questionable, but we would treat it as interval, as the 0 year would be the time when the Big Bang happened. The current BC-AD calendar was arbitrary chosen (similarly to degrees Celsius and Fahrenheit)."
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,

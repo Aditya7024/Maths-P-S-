@@ -14,10 +14,6 @@ Welcome to my Statistics and Probability project repository. This project encomp
 ### Description
 This folder includes materials related to the concept of confidence intervals, which are used to estimate the range within which a population parameter lies based on a sample statistic.
 
-### Contents
--https://github.com/Aditya7024/Maths-P-S-/blob/master/Confidence-Intervals/Practical-Confidence-intervals.xlsx: An Excel file containing data and calculations for various confidence interval examples.
-- `sheet1.csv`: The raw data used in the Excel file, saved separately for easy viewing.
-
 ### Key Topics
 - Confidence Level
 - Margin of Error
@@ -27,10 +23,6 @@ This folder includes materials related to the concept of confidence intervals, w
 
 ### Description
 This folder covers descriptive statistics, which summarize and describe the main features of a dataset.
-
-### Contents
-- `descriptive_statistics.xlsx`: An Excel file with data and summary statistics such as mean, median, mode, variance, and standard deviation.
-- `sheet1.csv`: The raw data used in the Excel file, saved separately for easy viewing.
 
 ### Key Topics
 - Measures of Central Tendency
@@ -42,10 +34,6 @@ This folder covers descriptive statistics, which summarize and describe the main
 ### Description
 This folder contains resources on hypothesis testing, a method used to make inferences or draw conclusions about a population based on sample data.
 
-### Contents
-- `hypothesis_testing.xlsx`: An Excel file with data and examples of different hypothesis tests.
-- `sheet1.csv`: The raw data used in the Excel file, saved separately for easy viewing.
-
 ### Key Topics
 - Null and Alternative Hypotheses
 - Type I and Type II Errors
@@ -56,10 +44,6 @@ This folder contains resources on hypothesis testing, a method used to make infe
 
 ### Description
 This folder focuses on regression analysis, a statistical technique used to model and analyze relationships between variables.
-
-### Contents
-- `regression_analysis.xlsx`: An Excel file containing data and regression analysis examples.
-- `sheet1.csv`: The raw data used in the Excel file, saved separately for easy viewing.
 
 ### Key Topics
 - Simple Linear Regression

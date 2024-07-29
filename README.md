@@ -71,10 +71,5 @@ This folder focuses on regression analysis, a statistical technique used to mode
 
 Each folder contains an Excel file with detailed calculations and analyses. The raw data files are saved separately in CSV format for easy access and review on GitHub. You can explore these files to understand the methodologies and applications of various statistical techniques.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
 
 Enjoy exploring the world of statistics and probability! If you have any questions or feedback, please don't hesitate to reach out.

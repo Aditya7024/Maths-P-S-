@@ -15,7 +15,7 @@ Welcome to my Statistics and Probability project repository. This project encomp
 This folder includes materials related to the concept of confidence intervals, which are used to estimate the range within which a population parameter lies based on a sample statistic.
 
 ### Contents
-- `confidence_interval.xlsx`: An Excel file containing data and calculations for various confidence interval examples.
+-https://github.com/Aditya7024/Maths-P-S-/blob/master/Confidence-Intervals/Practical-Confidence-intervals.xlsx: An Excel file containing data and calculations for various confidence interval examples.
 - `sheet1.csv`: The raw data used in the Excel file, saved separately for easy viewing.
 
 ### Key Topics

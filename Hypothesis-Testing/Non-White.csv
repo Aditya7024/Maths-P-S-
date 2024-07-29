@@ -1,0 +1,66 @@
+,Practical example. Hypothesis testing.,,,,,,,,,,
+,Spark Fortress Inc. HR data,,,,,,,,,,
+,,,,,,,,,,,
+,Surname,Name,Age,Gender,Country,Ethnicity,Start_date,Department,Position,Salary,
+,Friedman,Gerry,48,Male,United States,Two or more races,07-03-2011,Sales,Area Sales Manager,"$1,15,440.00",0
+,Mullaney,Howard,42,Male,United States,Two or more races,29-09-2014,Sales,Area Sales Manager,"$1,14,400.00",0
+,Nguyen,Dheepa,28,Female,United States,Two or more races,08-07-2013,Sales,Area Sales Manager,"$1,14,400.00",0
+,Valentin,Jackie,26,Female,United States,Two or more races,05-07-2011,Sales,Area Sales Manager,"$1,14,400.00",0
+,Davis,Daniel,38,Male,Australia,Two or more races,07-11-2011,Production       ,Production Technician II,"$52,000.00",0
+,Barone,Francesco A,34,Male,United States,Two or more races,20-02-2012,Production       ,Production Technician I,"$34,860.80",0
+,Girifalco,Evelyn,37,Female,United States,Two or more races,29-09-2014,Production       ,Production Technician I,"$33,280.00",0
+,Stanford,Barbara M,35,Female,United States,Two or more races,10-01-2011,Production       ,Production Technician I,"$29,120.00",0
+,Lindsay,Leonara,29,Female,United States,Two or more races,21-01-2011,IT/IS,IT Support,"$54,080.00",0
+,Miller,Brannon,36,Male,United States,Hispanic,16-08-2012,Production       ,Production Manager,"$1,10,240.00",0
+,Monroe,Peter,31,Male,France,Hispanic,15-02-2012,IT/IS,IT Manager - Infra,"$1,31,040.00",0
+,Del Bosque,Keyla,38,Female,United States,Black or African American,09-01-2012,Software Engineering,Software Engineer,"$1,18,809.60",0
+,Smith,John,33,Male,United States,Black or African American,18-05-2014,Sales,Sales Manager,"$1,16,480.00",0
+,Digitale,Alfred,29,Male,United States,Black or African American,18-08-2014,Sales,Area Sales Manager,"$1,16,480.00",0
+,Martins,Joseph,47,Male,Israel,Black or African American,14-05-2012,Sales,Area Sales Manager,"$1,16,480.00",0
+,Fraval,Maruk,54,Male,United States,Black or African American,06-09-2011,Sales,Area Sales Manager,"$1,14,400.00",0
+,Leruth,Giovanni,29,Male,United States,Black or African American,30-04-2012,Sales,Area Sales Manager,"$1,14,400.00",0
+,Potts,Xana,29,Female,United States,Black or African American,09-01-2012,Sales,Area Sales Manager,"$1,14,400.00",0
+,Terry,Sharlene,52,Female,United States,Black or African American,29-09-2014,Sales,Area Sales Manager,"$1,14,400.00",0
+,Strong,Caitrin,28,Female,United States,Black or African American,27-09-2010,Sales,Area Sales Manager,"$1,12,320.00",0
+,Moumanil,Maliki,43,Male,United States,Black or African American,13-05-2013,Production       ,Production Technician II,"$60,320.00",0
+,Faller,Megan,39,Female,United States,Black or African American,07-07-2014,Production       ,Production Technician II,"$56,160.00",0
+,Lunquist,Lisa,35,Female,United States,Black or African American,19-08-2013,Production       ,Production Technician II,"$54,288.00",0
+,Burke,Joelle,37,Female,United States,Black or African American,05-03-2012,Production       ,Production Technician II,"$52,000.00",0
+,Monterro,Luisa,47,Female,United States,Black or African American,13-05-2013,Production       ,Production Technician II,"$52,000.00",0
+,Fancett,Nicole,30,Female,United States,Black or African American,17-02-2014,Production       ,Production Technician II,"$49,920.00",0
+,Jeannite,Tayana,31,Female,United States,Black or African American,05-07-2011,Production       ,Production Technician II,"$46,800.00",0
+,Walker,Roger,41,Male,United States,Black or African American,18-08-2014,Production       ,Production Technician II,"$45,760.00",0
+,Gaul,Barbara,34,Female,United States,Black or African American,16-05-2011,Production       ,Production Technician I,"$49,920.00",0
+,Mckenna,Sandy,31,Female,United States,Black or African American,07-01-2013,Production       ,Production Technician I,"$49,920.00",0
+,Tippett,Jeanette,50,Female,United States,Black or African American,18-02-2013,Production       ,Production Technician I,"$49,920.00",0
+,Cierpiszewski,Caroline,29,Female,Poland,Black or African American,03-10-2011,Production       ,Production Technician I,"$45,760.00",0
+,DiNocco,Lily,39,Female,United States,Black or African American,07-01-2013,Production       ,Production Technician I,"$45,760.00",0
+,Owad,Clinton,38,Male,United States,Black or African American,17-02-2014,Production       ,Production Technician I,"$45,760.00",0
+,Sander,Kamrin,29,Female,United States,Black or African American,29-09-2014,Production       ,Production Technician I,"$43,680.00",0
+,Carey,Michael,34,Male,United States,Black or African American,31-03-2014,Production       ,Production Technician I,"$41,600.00",0
+,Gentry,Mildred,27,Female,United States,Black or African American,30-03-2015,Production       ,Production Technician I,"$39,520.00",0
+,Pitt,Brad,36,Male,United States,Black or African American,05-11-2007,Production       ,Production Technician I,"$35,360.00",0
+,Gonzalez,Cayo,48,Male,United States,Black or African American,11-07-2011,Production       ,Production Technician I,"$33,280.00",0
+,Knapp,Bradley J,40,Male,United States,Black or African American,17-02-2014,Production       ,Production Technician I,"$29,120.00",0
+,Sullivan,Kissy,39,Female,United States,Black or African American,08-01-2009,Production       ,Production Manager,"$1,14,400.00",0
+,Bramante,Elisa,34,Female,United States,Black or African American,05-01-2009,Production       ,Director of Operations,"$1,24,800.00",0
+,Soto,Julia,44,Female,United States,Black or African American,10-06-2011,IT/IS,IT Support,"$57,179.20",0
+,Foss,Jason,37,Male,United States,Black or African American,15-04-2011,IT/IS,IT Director,"$1,35,200.00",0
+,Murray,Thomas,29,Male,United States,Black or African American,10-11-2014,IT/IS,Database Administrator,"$73,840.00",0
+,Brown,Mia,32,Female,United States,Black or African American,27-10-2008,Admin Offices,Accountant I,"$59,280.00",0
+,LaRotonda,William,33,Male,United States,Black or African American,06-01-2014,Admin Offices,Accountant I,"$47,840.00",0
+,Martin,Sandra,30,Female,United States,Asian,11-11-2013,Software Engineering,Software Engineer,"$1,15,460.80",0
+,Villanueva,Noah,28,Male,United States,Asian,05-03-2012,Sales,Area Sales Manager,"$1,16,480.00",0
+,Petingill,Shana,38,Female,Australia,Asian,02-04-2012,Production       ,Production Technician II,"$54,080.00",0
+,Biden,Lowan M,59,Female,United States,Asian,19-08-2013,Production       ,Production Technician I,"$45,760.00",0
+,Rivera,Haley,45,Female,United States,Asian,28-11-2011,Production       ,Production Technician I,"$45,760.00",0
+,Stoica,Rick,32,Male,United States,Asian,17-02-2014,Production       ,Production Technician I,"$45,760.00",0
+,Harrell,Ludwick,35,Male,United States,Asian,14-05-2012,Production       ,Production Technician I,"$43,680.00",0
+,Kretschmer,John,37,Male,United States,Asian,10-01-2011,Production       ,Production Technician I,"$43,680.00",0
+,Garneau,Hamish,37,Male,United States,Asian,08-07-2013,Production       ,Production Technician I,"$37,440.00",0
+,Ngodup,Shari,50,Female,United States,Asian,01-04-2013,Production       ,Production Technician I,"$31,200.00",0
+,Zima,Colleen,39,Female,United States,Asian,29-09-2014,Production       ,Production Technician I,"$31,200.00",0
+,Sutwell,Barbara,49,Female,Australia,Asian,14-05-2012,Production       ,Production Technician I,"$29,120.00",0
+,Warfield,Sarah,39,Female,United States,Asian,30-03-2015,IT/IS,Sr. Network Engineer,"$1,14,816.00",0
+,Petrowsky,Thelma,33,Female,United States,Asian,10-11-2014,IT/IS,Database Administrator,"$88,920.00",0
+,Boutwell,Bonalyn,30,Female,United States,Asian,16-02-2015,Admin Offices,Sr. Accountant,"$72,696.00",0
